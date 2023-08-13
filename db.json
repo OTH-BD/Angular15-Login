@@ -1,0 +1,77 @@
+{
+  "user": [
+    {
+      "id": "Admin",
+      "name": "Admin User",
+      "password": "Atay4011@$",
+      "email": "othmane@gmail.com",
+      "genre": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Abdo",
+      "name": "Abdessamad",
+      "password": "Atay4011@",
+      "email": "abdo.01@gmail.com",
+      "genre": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "Moha",
+      "name": "mohamed",
+      "password": "Atay4011@",
+      "email": "Moha.2000@gmail.com",
+      "genre": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "salah",
+      "name": "salah",
+      "password": "Atay4011@",
+      "email": "salah@gmail.com",
+      "genre": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "salimi",
+      "name": "salimi",
+      "password": "Atay4011@",
+      "email": "salimi@gmail.com",
+      "genre": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "Othmano",
+      "name": "Othmane",
+      "password": "Atay4011@",
+      "email": "othmane.boudali01@gmail.com",
+      "genre": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "salam",
+      "name": "salam",
+      "password": "Atay4011@",
+      "email": "othma@gmail.com",
+      "genre": "male",
+      "role": "quality",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
